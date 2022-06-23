@@ -10,11 +10,13 @@ namespace CoolerLogger
     {
         public void WriteInFile(string[] resultlog)
         {
-            string filename = new Actions().Time.ToString();
-            string path = @"D:\Проекти\Навчання С+\Код\Logger_w_Exceptions\CoolerLogger\Logfiles\";
+            new Deserialize().Deserialization();
+            var path = @"D:\Проекти\Навчання С+\Код\Logger_w_Exceptions\CoolerLogger\Logfiles\";
+            // var path = new Config().Logger.DirectioryPath; // Don`t understand, how to make it work
             System.IO.DirectoryInfo dir = new System.IO.DirectoryInfo(path);
 
-            // Changes forbidden symbols in generated file name for underscore
+            // Creates an asseptable filename
+            string filename = new Result().Time.ToString();
             char[] chars = filename.ToCharArray(); 
             for(int i = 0; i < chars.Length; i++)
             {
@@ -33,7 +35,7 @@ namespace CoolerLogger
             int count = dir.GetFiles().Length;
             if (count < 3)
             {
-                File.AppendAllLines($"{path}{filename}.txt", resultlog);
+                File.WriteAllLines($"{path}{filename}.txt", resultlog);
             }
             else
             {
@@ -56,7 +58,7 @@ namespace CoolerLogger
 
                 //Deletes oldest file and creates new one
                 File.Delete(oldestfile);
-                File.AppendAllLines($"{path}{filename}.txt", resultlog);
+                File.WriteAllLines($"{path}{filename}.txt", resultlog);
             }
            
         }

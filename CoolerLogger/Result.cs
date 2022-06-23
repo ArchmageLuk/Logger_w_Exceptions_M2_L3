@@ -5,13 +5,17 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace CoolerLogger
-{
+{  
+
     public class Result
     {
-        public void CreateLog(string message, string type, DateTime time)
+        public DateTime Time = DateTime.UtcNow.AddHours(3);
+
+        public string CreateLog(string? exmess, string message, string type)
         {
-            string result = $"{time}: {type} : {message}";
+            string result = $"{exmess}{Time}: {type} : {message}";
             new Logger().ConsoleLog(result);
+            return result;
         }
     }
 }

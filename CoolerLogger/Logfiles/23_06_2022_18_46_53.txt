@@ -1,0 +1,100 @@
+Action got this custom Exception: 23.06.2022 18:46:50: Warning : Skipped logic in method
+Action failed by a reason: 23.06.2022 18:46:50: Error : I broke a logic
+Action got this custom Exception: 23.06.2022 18:46:50: Warning : Skipped logic in method
+Action failed by a reason: 23.06.2022 18:46:50: Error : I broke a logic
+23.06.2022 18:46:50: Info : Start method: 'InfoMethod'
+Action got this custom Exception: 23.06.2022 18:46:50: Warning : Skipped logic in method
+Action failed by a reason: 23.06.2022 18:46:50: Error : I broke a logic
+Action got this custom Exception: 23.06.2022 18:46:50: Warning : Skipped logic in method
+23.06.2022 18:46:50: Info : Start method: 'InfoMethod'
+Action got this custom Exception: 23.06.2022 18:46:50: Warning : Skipped logic in method
+23.06.2022 18:46:50: Info : Start method: 'InfoMethod'
+Action failed by a reason: 23.06.2022 18:46:50: Error : I broke a logic
+Action got this custom Exception: 23.06.2022 18:46:50: Warning : Skipped logic in method
+Action failed by a reason: 23.06.2022 18:46:50: Error : I broke a logic
+Action got this custom Exception: 23.06.2022 18:46:50: Warning : Skipped logic in method
+Action failed by a reason: 23.06.2022 18:46:50: Error : I broke a logic
+23.06.2022 18:46:50: Info : Start method: 'InfoMethod'
+Action failed by a reason: 23.06.2022 18:46:50: Error : I broke a logic
+Action failed by a reason: 23.06.2022 18:46:50: Error : I broke a logic
+23.06.2022 18:46:50: Info : Start method: 'InfoMethod'
+23.06.2022 18:46:50: Info : Start method: 'InfoMethod'
+23.06.2022 18:46:50: Info : Start method: 'InfoMethod'
+Action failed by a reason: 23.06.2022 18:46:50: Error : I broke a logic
+Action failed by a reason: 23.06.2022 18:46:50: Error : I broke a logic
+23.06.2022 18:46:50: Info : Start method: 'InfoMethod'
+23.06.2022 18:46:50: Info : Start method: 'InfoMethod'
+23.06.2022 18:46:50: Info : Start method: 'InfoMethod'
+Action got this custom Exception: 23.06.2022 18:46:50: Warning : Skipped logic in method
+Action failed by a reason: 23.06.2022 18:46:50: Error : I broke a logic
+23.06.2022 18:46:50: Info : Start method: 'InfoMethod'
+23.06.2022 18:46:50: Info : Start method: 'InfoMethod'
+Action failed by a reason: 23.06.2022 18:46:50: Error : I broke a logic
+23.06.2022 18:46:50: Info : Start method: 'InfoMethod'
+Action got this custom Exception: 23.06.2022 18:46:50: Warning : Skipped logic in method
+Action failed by a reason: 23.06.2022 18:46:50: Error : I broke a logic
+Action failed by a reason: 23.06.2022 18:46:50: Error : I broke a logic
+23.06.2022 18:46:50: Info : Start method: 'InfoMethod'
+Action got this custom Exception: 23.06.2022 18:46:50: Warning : Skipped logic in method
+Action got this custom Exception: 23.06.2022 18:46:50: Warning : Skipped logic in method
+Action got this custom Exception: 23.06.2022 18:46:50: Warning : Skipped logic in method
+Action got this custom Exception: 23.06.2022 18:46:50: Warning : Skipped logic in method
+Action failed by a reason: 23.06.2022 18:46:50: Error : I broke a logic
+Action failed by a reason: 23.06.2022 18:46:50: Error : I broke a logic
+Action failed by a reason: 23.06.2022 18:46:51: Error : I broke a logic
+Action failed by a reason: 23.06.2022 18:46:51: Error : I broke a logic
+Action failed by a reason: 23.06.2022 18:46:51: Error : I broke a logic
+Action failed by a reason: 23.06.2022 18:46:51: Error : I broke a logic
+23.06.2022 18:46:51: Info : Start method: 'InfoMethod'
+Action got this custom Exception: 23.06.2022 18:46:51: Warning : Skipped logic in method
+Action failed by a reason: 23.06.2022 18:46:51: Error : I broke a logic
+23.06.2022 18:46:51: Info : Start method: 'InfoMethod'
+Action failed by a reason: 23.06.2022 18:46:51: Error : I broke a logic
+23.06.2022 18:46:51: Info : Start method: 'InfoMethod'
+Action failed by a reason: 23.06.2022 18:46:51: Error : I broke a logic
+Action failed by a reason: 23.06.2022 18:46:51: Error : I broke a logic
+Action got this custom Exception: 23.06.2022 18:46:51: Warning : Skipped logic in method
+Action failed by a reason: 23.06.2022 18:46:51: Error : I broke a logic
+Action got this custom Exception: 23.06.2022 18:46:51: Warning : Skipped logic in method
+Action got this custom Exception: 23.06.2022 18:46:51: Warning : Skipped logic in method
+Action failed by a reason: 23.06.2022 18:46:51: Error : I broke a logic
+23.06.2022 18:46:51: Info : Start method: 'InfoMethod'
+Action got this custom Exception: 23.06.2022 18:46:51: Warning : Skipped logic in method
+Action failed by a reason: 23.06.2022 18:46:51: Error : I broke a logic
+23.06.2022 18:46:51: Info : Start method: 'InfoMethod'
+23.06.2022 18:46:51: Info : Start method: 'InfoMethod'
+Action got this custom Exception: 23.06.2022 18:46:51: Warning : Skipped logic in method
+23.06.2022 18:46:51: Info : Start method: 'InfoMethod'
+Action got this custom Exception: 23.06.2022 18:46:51: Warning : Skipped logic in method
+23.06.2022 18:46:51: Info : Start method: 'InfoMethod'
+Action got this custom Exception: 23.06.2022 18:46:51: Warning : Skipped logic in method
+Action got this custom Exception: 23.06.2022 18:46:51: Warning : Skipped logic in method
+23.06.2022 18:46:52: Info : Start method: 'InfoMethod'
+Action got this custom Exception: 23.06.2022 18:46:52: Warning : Skipped logic in method
+Action failed by a reason: 23.06.2022 18:46:52: Error : I broke a logic
+Action got this custom Exception: 23.06.2022 18:46:52: Warning : Skipped logic in method
+Action got this custom Exception: 23.06.2022 18:46:52: Warning : Skipped logic in method
+Action failed by a reason: 23.06.2022 18:46:52: Error : I broke a logic
+23.06.2022 18:46:52: Info : Start method: 'InfoMethod'
+Action failed by a reason: 23.06.2022 18:46:52: Error : I broke a logic
+Action failed by a reason: 23.06.2022 18:46:52: Error : I broke a logic
+Action got this custom Exception: 23.06.2022 18:46:52: Warning : Skipped logic in method
+Action failed by a reason: 23.06.2022 18:46:52: Error : I broke a logic
+Action failed by a reason: 23.06.2022 18:46:52: Error : I broke a logic
+Action got this custom Exception: 23.06.2022 18:46:52: Warning : Skipped logic in method
+23.06.2022 18:46:52: Info : Start method: 'InfoMethod'
+Action got this custom Exception: 23.06.2022 18:46:52: Warning : Skipped logic in method
+Action failed by a reason: 23.06.2022 18:46:52: Error : I broke a logic
+Action got this custom Exception: 23.06.2022 18:46:52: Warning : Skipped logic in method
+Action got this custom Exception: 23.06.2022 18:46:52: Warning : Skipped logic in method
+Action failed by a reason: 23.06.2022 18:46:53: Error : I broke a logic
+Action got this custom Exception: 23.06.2022 18:46:53: Warning : Skipped logic in method
+23.06.2022 18:46:53: Info : Start method: 'InfoMethod'
+Action failed by a reason: 23.06.2022 18:46:53: Error : I broke a logic
+Action failed by a reason: 23.06.2022 18:46:53: Error : I broke a logic
+Action got this custom Exception: 23.06.2022 18:46:53: Warning : Skipped logic in method
+23.06.2022 18:46:53: Info : Start method: 'InfoMethod'
+Action got this custom Exception: 23.06.2022 18:46:53: Warning : Skipped logic in method
+Action failed by a reason: 23.06.2022 18:46:53: Error : I broke a logic
+Action got this custom Exception: 23.06.2022 18:46:53: Warning : Skipped logic in method
+23.06.2022 18:46:53: Info : Start method: 'InfoMethod'
