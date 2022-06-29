@@ -3,17 +3,23 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 
 namespace CoolerLogger
 {
     public class FileService
     {
+        public string DirectoryPath { get; set; }
+
         public void WriteInFile(string[] resultlog)
         {
-            new Deserialize().Deserialization();
-            var path = @"D:\Проекти\Навчання С+\Код\Logger_w_Exceptions\CoolerLogger\Logfiles\";
-            // var path = new Config().Logger.DirectioryPath; // Don`t understand, how to make it work
-            System.IO.DirectoryInfo dir = new System.IO.DirectoryInfo(path);
+
+            //reads path from json file
+            string readingJson = File.ReadAllText(@"D:\Projects\C# learning\Code\Logger_w_Exceptions\CoolerLogger\Configs\configservice.json");
+            var jsonDir = JsonConvert.DeserializeObject<FileService>(readingJson);
+            string directoryPath = jsonDir.DirectoryPath;
+
+            System.IO.DirectoryInfo dir = new System.IO.DirectoryInfo(directoryPath);
 
             // Creates an asseptable filename
             string filename = new Result().Time.ToString();
@@ -31,11 +37,11 @@ namespace CoolerLogger
             }
             filename = new string(chars);
 
-            //Count and deletion of files
+            //Counting and deletion of files
             int count = dir.GetFiles().Length;
             if (count < 3)
             {
-                File.WriteAllLines($"{path}{filename}.txt", resultlog);
+                File.WriteAllLines($"{directoryPath}{filename}.txt", resultlog);
             }
             else
             {
@@ -58,7 +64,7 @@ namespace CoolerLogger
 
                 //Deletes oldest file and creates new one
                 File.Delete(oldestfile);
-                File.WriteAllLines($"{path}{filename}.txt", resultlog);
+                File.WriteAllLines($"{directoryPath}{filename}.txt", resultlog);
             }
            
         }
